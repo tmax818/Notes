@@ -9,3 +9,5 @@ So this is the statment of purpose: the why of this writing. It seems that start
 We all know what to do. The secret to success is hidden in plain sight. Part of the soultion is brutal honesty with one's self. I want to be an Outlier. I want to stand out. That's not going to happen unless I move my feet. I guess move my fingers in this instance. There is no shame on standing on the shoulders of giants. It's seems to be the way it works.
 
 ![image](/images/interpvcomp.jpeg)
+
+It seems that the amount I don't know is staggering. How do I correct this? I think 'this' is how! I was unclear on the difference between a interpreter and a compiler. I found the above image [here](https://www.programiz.com/article/difference-compiler-interpreter). I knew the answer. I remember the anaology in the Teaching Company course about the courtroom interpreter and a translated novel.
