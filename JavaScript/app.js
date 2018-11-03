@@ -1,16 +1,9 @@
-function buildFunctions() {
-  var arr = [];
-
-  for (var i = 0; i < 3; i++) {
-    arr.push(function() {
-      console.log(i);
-    });
+function factorial(n) {
+  if (n === 0) {
+    return 1;
+  } else {
+    return factorial(n - 1) * n;
   }
-  return arr;
 }
 
-var fs = buildFunctions();
-
-fs[0]();
-fs[1]();
-fs[2]();
+console.log(factorial(8));
